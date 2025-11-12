@@ -1,5 +1,26 @@
 # Changelog
 
+## [2025.11.4](https://github.com/jdx/mise/compare/v2025.11.3..v2025.11.4) - 2025-11-12
+
+### 📦 Registry
+
+- add xcsift by @alexey1312 in [#6923](https://github.com/jdx/mise/pull/6923)
+- add tools: magika & xxh by @IceCodeNew in [#6909](https://github.com/jdx/mise/pull/6909)
+- add aliases to aqua-backend tools by @IceCodeNew in [#6910](https://github.com/jdx/mise/pull/6910)
+
+### 📚 Documentation
+
+- **(snapcraft)** update `summary` & `description` shown in snapcraft.io by @phanect in [#6926](https://github.com/jdx/mise/pull/6926)
+
+### 📦️ Dependency Updates
+
+- lock file maintenance by @renovate[bot] in [#6932](https://github.com/jdx/mise/pull/6932)
+
+### New Contributors
+
+- @IceCodeNew made their first contribution in [#6910](https://github.com/jdx/mise/pull/6910)
+- @alexey1312 made their first contribution in [#6923](https://github.com/jdx/mise/pull/6923)
+
 ## [2025.11.3](https://github.com/jdx/mise/compare/v2025.11.2..v2025.11.3) - 2025-11-07
 
 ### 📦 Registry
